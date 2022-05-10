@@ -1,6 +1,6 @@
-THE ODIN PROJECT
+THE ODIN PROJECT<br>
 
-Project #1 | Landing Page
+Project #1 | Landing Page<br>
 Skills tested: HTML CSS Flexbox
 
 -------------------------------
