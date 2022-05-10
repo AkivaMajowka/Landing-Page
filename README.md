@@ -1,8 +1,7 @@
---The Odin Project--
+THE ODIN PROJECT
 
-Project: Landing Page
-
-Skill test: HTML CSS Flexbox
+Project #1 | Landing Page
+Skills tested: HTML CSS Flexbox
 
 -------------------------------
 Images Credits:
